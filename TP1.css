@@ -1,6 +1,6 @@
 .principal {
     height:800px;
-    background-image: URL(fondo.jpg);
+    background-image: URL(fondo.jpg);   
 }
 
 .menu {
@@ -35,4 +35,31 @@
     margin-left: 50px
 }
 
-.texto-princpal
+.textoprincipal {
+    width: 80%;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17;
+    margin-left: 100px;
+    margin-top: 80px;
+    font-weight: bold;
+    border: solid 3px;
+    padding: 20px
+}
+
+.primerainfo {
+    margin-left: 100px;
+    margin-top: 80px;
+    width: 80%;
+    display: flex;
+
+}
+
+.imagenoficina img{
+    width: 90%
+}
+
+.textoficina {
+    width: 90%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
